@@ -1,0 +1,10 @@
+{
+    "name": "dtaranti/timedoctor_test",
+    "authors": [
+        {
+            "name": "Dmitry Tarantin",
+            "email": "dimichspb@gmail.com"
+        }
+    ],
+    "require": {}
+}
