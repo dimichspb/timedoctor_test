@@ -6,5 +6,8 @@
             "email": "dimichspb@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {"timedoctor\\": "timedoctor/"}
+    }
 }
